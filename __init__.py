@@ -12,14 +12,14 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "Test [NAME]",
+    "name": "Test BL Info Invalid Version",
     "author": "BD",
     "description": "",
     "blender": (2, 80, 0),
-    "version": (0, 0, 0),
+    "version": ("0", "Test", None),
     "location": "",
     "warning": "",
-    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/Test_[NAME]/main/endpoint.json",
+    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/test-bl_info_invalid_version/main/endpoint.json",
     "category": "Generic"
 }
 
