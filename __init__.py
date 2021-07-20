@@ -12,7 +12,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "Test BL Info Invalid Version",
+    "name": "Test Version Problems",
     "author": "BD",
     "description": "",
     "blender": (2, 80, 0),
